@@ -1,0 +1,14 @@
+{
+    "1": {
+        "id": 1,
+        "author": "Angel",
+        "title": "Bravo be",
+        "is_avaliable": false
+    },
+    "2": {
+        "id": 2,
+        "author": "Ivan",
+        "title": "Moq",
+        "is_avaliable": true
+    }
+}
